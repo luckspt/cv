@@ -1,0 +1,45 @@
+{{- $collection := index .Data (.Feature.collection | default "features" ) -}}
+{{- $data := index $collection .Feature.feature }}
+{{- if eq .Feature.style "list" -}}
+	<div class="item">
+	{{ range $data }}
+		{{- if reflect.IsMap . -}}
+		{{- range .list -}}
+			<li>{{.}}</li>
+		{{- end -}}
+		{{- else -}}
+		<li>{{.}}</li>
+		{{- end -}}
+	{{ end }}
+	</div>
+{{- else if eq .Feature.style "compact" -}}
+	<div class="item">
+		<dl>
+			{{ range $data }}
+			{{- if eq .groupName "Programming" -}}
+			<dt> <i class="fas fa-code"></i>  {{ .groupName }}</dt>
+			{{- end -}}
+			{{- if eq .groupName "OSs" -}} 
+			<dt> <i class="fas fa-laptop"></i>  {{ .groupName }}</dt>
+			{{- end -}}
+			{{- if eq .groupName "Tools & Software" -}}
+			<dt> <i class="fas fa-wrench"></i>  {{ .groupName }}</dt>
+			{{- end -}}
+			<dd>
+				{{- range .list -}}
+				<span>{{.}}</span>
+				{{- end -}}
+			</dd>
+			{{ end }}
+		</dl>
+	</div>
+{{- else -}}
+	{{ range $data }}
+	<div class="item">
+		<h2 class="item-title">{{ .groupName }}</h2>
+		{{ range .list }}
+		<li>{{.}}</li>
+		{{ end }}
+	</div>
+	{{ end }}
+{{- end -}}

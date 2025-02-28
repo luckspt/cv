@@ -1,0 +1,12 @@
+{{ range .Data.education }}
+<div class="item">
+	<h2 class="item-title">
+        {{ if .link }}<a href="{{ .link }}" target="_blank">{{ end }}
+        {{ .name }}
+        {{ if .link }}</a>{{ end }}
+    </h2>
+	<span>{{ .university }}</span><br>
+	{{ if .more }}<span>{{ .more }}</span><br>{{ end }}
+	<span>{{ .date }}{{ if .gpa }} | GPA: {{ .gpa }}{{ end }}{{ if .avg }} | Avg. {{ .avg }}{{ end }}</span>
+</div>
+{{ end }}

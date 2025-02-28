@@ -1,0 +1,14 @@
+- name: "Master's Degree Computer Science and Engineering"
+  university: "Instituto Superior Técnico, University of Lisbon"
+  date: "2023 - Present"
+  link: "https://tecnico.ulisboa.pt/pt/ensino/cursos/mestrados/engenharia-informatica-e-de-computadores/"
+
+- name: "Bsc. Information Technologies"
+  university: "Faculty of Sciences, University of Lisbon"
+  date: "2020 - 2023"
+  link: "https://fenix.ciencias.ulisboa.pt/degrees/tecnologias-de-informacao"
+
+- name: "IT Systems Management and Programming Technician"
+  university: "INETE"
+  date: "2017 - 2020"
+  link: "https://www.inete.pt/oferta-formativa/ensino-profissional/tecnico-de-gestao-e-programacao-de-sistemas-informaticos/"

@@ -1,0 +1,32 @@
+- company: Full Stack Developer - Research Initiation Grant  
+  roles:
+    - role: DEI - Instituto Superior Técnico
+      link: https://dei.tecnico.ulisboa.pt
+      details: Developed a new module for the DEI Management System, streamlining professor evaluation for department secretaries. Built using Vue.js and Spring Boot. Also provide tech support and bug fixes for other systems as needed.
+      date: "January 2024 - Present"
+
+- company: Front End Developer - Summer Internship  
+  roles:
+    - role: Mestrelab Research
+      link: https://mestrelab.com
+      details: Developed a JavaFX desktop application to facilitate data import into the company's main product, improving efficiency and usability.
+      date: "August 2021"
+
+- company: Multimedia Member
+  roles:
+    - role: SINFO
+      link: https://sinfo.org
+      details: |
+        Worked in a team of seven responsible for all visuals and multimedia content for SINFO, the biggest free tech event in Portugal.
+        Designed social media posts and graphical assets.
+        Introduced automation to the multimedia workflow, generating over 200 images for the 80+ companies.
+        During SINFO week, managed attendee invitations, supported logistics, and ensured smooth event execution.
+      date: "May 2024 - Present"
+
+- company: Photography Coordinator
+  roles:
+    - role: NEIIST
+      link: https://neiist.tecnico.ulisboa.pt
+      details: |
+        Led a team of students in covering all events for the student association. Joined as a member in March and was promoted to coordinator in November.
+      date: "March 2024 - Present"

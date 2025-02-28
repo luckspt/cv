@@ -1,0 +1,61 @@
+about:
+  name: Lucas Pinto
+  tagline: STUDENT, COMPUTER SCIENCE AND ENGINEERING
+  email: cv@lucks.pt
+  links:
+    - title: luckstech
+      url: https://linkedin.com/in/luckstech
+      icon: fab fa-linkedin
+    - title: luckspt
+      url: https://github.com/luckspt
+      icon: fab fa-github
+    - title: lucks.pt
+      url: https://lucks.pt
+      icon: fas fa-mouse-pointer
+  details:
+
+skills:
+  - groupName: Programming
+    list:
+      - TypeScript
+      - VueJS
+      - NodeJS
+      - Java
+      - Python
+      - SQL
+
+  - groupName: OSs
+    list:
+      - Linux
+      - Windows
+
+  - groupName: Tools & Software
+    list:
+      - Git
+      - Docker (& Docker Compose)
+
+languages:
+  - name: European Portuguese
+    level: Native
+
+  - name: English
+    level: C1
+
+# This will use the default widget: "details-list"
+volunteering:
+  - title: "ICPC SWERC"
+    date: "November 2024"
+    details: |
+      Volunteered to design the badges for the Lisbon Site and led the local photography team.
+      Managed the full event broadcast on the ICPC Live YouTube channel, coordinating with the Site Director and ICPC Live Director to integrate coverage with the Lyon and Pisa sites.
+  - title: "WebSummit"
+    date: "2022, 2023, 2024"
+    details: |
+      Recurrent volunteer at WebSummit, one of the world's largest tech conferences.
+      Contributed to various teams, including Registration (first point of contact for attendees), Speakers (guiding speakers to their stages), and Response & Support (assisting other teams as needed).
+
+interests:
+  - Photography
+  - Music
+  - Traveling
+  - Event Organization
