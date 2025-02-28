@@ -19,7 +19,7 @@
       details: |
         Worked in a team of seven responsible for all visuals and multimedia content for SINFO, the biggest free tech event in Portugal.
         Designed social media posts and graphical assets.
-        Introduced automation to the multimedia workflow, generating over 200 images for the 80+ companies.
+        Introduced automation to the workflow, generating over 200 images for the 80+ companies.
         During SINFO week, managed attendee invitations, supported logistics, and ensured smooth event execution.
       date: "May 2024 - Present"
 
@@ -30,3 +30,11 @@
       details: |
         Led a team of students in covering all events for the student association. Joined as a member in March and was promoted to coordinator in November.
       date: "March 2024 - Present"
+
+- company: Clappy
+  roles:
+    - role: Movies and Filmmaking
+      link: https://mafdiscord.com
+      details: |
+        Developed a Discord bot for the Movies and Filmmaking community of 70,000+ users. The bot tracks activity and allows users to customize their own Clappy.
+      date: "January 2020 - Present"
