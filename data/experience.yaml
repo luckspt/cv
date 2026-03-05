@@ -1,6 +1,6 @@
-- company: Amgen
+- company: Fullstack Engineer
   roles:
-    - role: Fullstack Engineer
+    - role: Amgen
       link: https://amgen.pt
       details: |
         Developing fullstack web applications in React and FastAPI. Pushing for better practices, such as rewriting the frontend from JavaScript to TypeScript, using Swagger for backend documentation, and introducing typecheckers.
