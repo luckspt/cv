@@ -1,9 +1,27 @@
-- company: Full Stack Developer - Research Initiation Grant  
+- company: Amgen
   roles:
-    - role: DEI - Instituto Superior Técnico
+    - role: Fullstack Engineer
+      link: https://amgen.pt
+      details: |
+        Developing fullstack web applications in React and FastAPI. Pushing for better practices, such as rewriting the frontend from JavaScript to TypeScript, using Swagger for backend documentation, and introducing typecheckers.
+      date: "September 2025 - Present"
+
+- company: Fullstack Engineer
+  roles:
+    - role: Instituto Superior Técnico - DEI
       link: https://dei.tecnico.ulisboa.pt
-      details: Developed a new module for the DEI Management System, streamlining professor evaluation for department secretaries. Built using Vue.js and Spring Boot. Also provide tech support and bug fixes for other systems as needed.
-      date: "January 2024 - Present"
+      details: |
+        Developed a new module for the DEI Management System, streamlining professor evaluation for department secretaries. Built using Vue.js and Spring Boot. Also provided tech support and bug fixes for other systems as needed.
+      date: "January 2024 - December 2025"
+
+- company: Fullstack Engineer
+  roles:
+    - role: SINFO
+      link: https://sinfo.org
+      details: |
+        Owned and executed the rewrite of an internal management application from Flutter to Vue.js as the lead engineer, delivering workflow automations (email templating and and gmail synchronization) that reduced communication turnaround by multiple hours per week. Also contributed with automation in the Multimedia team
+      date: "May 2024 - Present"
+
 
 - company: Front End Developer - Summer Internship  
   roles:
@@ -11,30 +29,3 @@
       link: https://mestrelab.com
       details: Developed a JavaFX desktop application to facilitate data import into the company's main product, improving efficiency and usability.
       date: "August 2021"
-
-- company: Multimedia Member
-  roles:
-    - role: SINFO
-      link: https://sinfo.org
-      details: |
-        Worked in a team of seven responsible for all visuals and multimedia content for SINFO, the biggest free tech event in Portugal.
-        Designed social media posts and graphical assets.
-        Introduced automation to the workflow, generating over 200 images for the 80+ companies.
-        During SINFO week, directed attendees to presentations, supported logistics, and ensured smooth event execution.
-      date: "May 2024 - Present"
-
-- company: Photography Coordinator
-  roles:
-    - role: NEIIST
-      link: https://neiist.tecnico.ulisboa.pt
-      details: |
-        Led a team of students in covering all events for the student association. Joined as a member in March and was promoted to coordinator in November.
-      date: "March 2024 - Present"
-
-- company: Clappy
-  roles:
-    - role: Movies and Filmmaking
-      link: https://mafdiscord.com
-      details: |
-        Developed a Discord bot for the Movies and Filmmaking community of 70,000+ users. The bot tracks activity and allows users to customize their own Clappy.
-      date: "January 2020 - Present"

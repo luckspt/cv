@@ -20,22 +20,25 @@ skills:
       - TypeScript
       - VueJS
       - NodeJS
-      - Java
+      - Spring Boot
       - Python
       - SQL
+      - FastAPI
+      - React
 
   - groupName: OSs
     list:
+      - MacOS
       - Linux
-      - Windows
 
   - groupName: Tools & Software
     list:
       - Git
       - Docker (& Docker Compose)
+      - AWS
 
 languages:
-  - name: European Portuguese
+  - name: Portuguese
     level: Native
 
   - name: English
@@ -44,15 +47,14 @@ languages:
 # This will use the default widget: "details-list"
 volunteering:
   - title: "ICPC SWERC"
-    date: "November 2024"
+    date: "2024, 2025"
     details: |
-      Volunteered to design the badges for the Lisbon Site and led the local photography team.
-      Managed the full event broadcast on the ICPC Live YouTube channel, coordinating with the Site Director and ICPC Live Director to integrate coverage with the Lyon and Pisa sites.
+      Led the local photography team and contributed to the badge design and support to the participants.
+      In 2024, I managed the event broadcast on the ICPC Live YouTube channel, coordinating with the Site Director and ICPC Live Director to integrate coverage with the Lyon and Pisa sites.
   - title: "WebSummit"
     date: "2022, 2023, 2024"
     details: |
-      Recurrent volunteer at WebSummit, one of the world's largest tech conferences.
-      Contributed to various teams, including Registration (first point of contact for attendees), Speakers (guiding speakers to their stages), and Response & Support (assisting other teams as needed).
+      Recurrent volunteer at WebSummit Contributed to various teams, including Registration (first point of contact for attendees), Speakers (guiding speakers to their stages), and Response & Support (assisting other teams as needed).
 
 interests:
   - Photography
